@@ -26,7 +26,7 @@ SECRET_KEY = '1=364!t#)=m((#2yr7o@cx)@c^hvp9%g&5!rck9dlybi#b&#7b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['googlerecharge.herokuapp.com','localhost']
+ALLOWED_HOSTS = ['googlerecharge.herokuapp.com','127.0.0.1']
 
 
 # Application definition
