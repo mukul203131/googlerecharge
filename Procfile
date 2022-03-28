@@ -1,0 +1,1 @@
+web: gunicorn googlerecharge.wsgi --log-file -
